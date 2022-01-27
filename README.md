@@ -1,5 +1,7 @@
 # CSS Exercises
 
+I FORK AND CLONE A REPO!!
+
 These exercises are a series of CSS related tasks intended to complement the HTML and CSS content on The Odin Project.
 
 These exercises should be done when instructed during the course of the curriculum.
@@ -15,9 +17,9 @@ These exercises should be done when instructed during the course of the curricul
 5. Don't check the solutions until you're done!
 
 ## Some hints
+
 - The official solutions put all changes at the _end_ of the CSS file, which may duplicate some selectors (e.g. there might be a `body {}` in the given CSS, and another `body {}` in the solution). When you are working on an exercise, it is best practice to add your CSS to existing selectors instead of duplicating them at the end of the file. We're sacrificing this best practice in our official solutions to make it extra clear to you what things we changed to solve the exercise.
 - Unless listed in the self-check section, do not worry about getting the exact pixel value for things like margin, padding and font-size. These exercises are intended to test your knowledge of CSS, not your ability to guess that a screenshot is using `font: sans-serif bold 16px`, or that the margin is _exactly_ `42px`.
 - You may need to add some elements to your HTML to get things into the right spot. (For the first few exercises we make it explicit when this needs to happen.)
 - You may need to add more selectors to your CSS file. The first few exercises have almost everything already done for you, but as you progress you'll find that you need to add more and more to get the correct result.
 - In many cases, there will be multiple correct ways to solve these problems. The official solution isn't necessarily the _only right way_, but it is possible to do things in ways that are overall unhelpful. If your solution differs wildly from the official solution (and still passes the self-check criteria), feel free to ask about it in the chatroom.
-
